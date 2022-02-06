@@ -1,7 +1,7 @@
-public class MyProject{
+
+public class MyAbsence {
 
 	public static void main(final String[] args) {
-		// Write your solution here
 	}
 
 }
